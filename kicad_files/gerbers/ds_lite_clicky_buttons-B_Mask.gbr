@@ -1,0 +1,29 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,5.1.9+dfsg1-1*%
+%TF.CreationDate,2022-05-26T09:54:07+01:00*%
+%TF.ProjectId,ds_lite_clicky_buttons,64735f6c-6974-4655-9f63-6c69636b795f,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 5.1.9+dfsg1-1) date 2022-05-26 09:54:07*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,1.500000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,R00*%
+X135326120Y-86288880D03*
+%TD*%
+%TO.C,R01*%
+X131556760Y-101559360D03*
+%TD*%
+%TO.C,P00*%
+X151323040Y-104297480D03*
+%TD*%
+%TO.C,P01*%
+X137068560Y-106537760D03*
+%TD*%
+M02*
